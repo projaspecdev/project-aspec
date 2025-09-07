@@ -1,0 +1,2 @@
+﻿"CarId","Price","Stage","SteeringReaction1","WheelSize","SteeringReaction2","TireCompound","TireForceVolMaybe","SlipMultiplier","GripMultiplier"
+"n240r","2000","Simulation","0","TireSize\2120_295-35R19.csv","0","TireCompound\16_SimulationFront.dat","0","0","0"

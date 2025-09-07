@@ -1,0 +1,2 @@
+﻿"CarId","Stage","SteeringReaction1","WheelSize","SteeringReaction2","TireCompound","TireForceVolMaybe","SlipMultiplier","GripMultiplier"
+"brmin","Dirt","0","TireSize\0060_145-70R12.csv","0","TireCompound\13_DirtRear.dat","0","0","0"

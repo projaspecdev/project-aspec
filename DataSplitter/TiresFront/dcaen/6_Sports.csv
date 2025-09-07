@@ -1,0 +1,2 @@
+﻿"CarId","Price","Stage","SteeringReaction1","WheelSize","SteeringReaction2","TireCompound","TireForceVolMaybe","SlipMultiplier","GripMultiplier"
+"dcaen","6000","Sports","0","TireSize\1750_225-45R18.csv","0","TireCompound\02_SportsFront.dat","0","0","0"

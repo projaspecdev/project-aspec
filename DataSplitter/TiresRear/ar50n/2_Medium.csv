@@ -1,0 +1,2 @@
+﻿"CarId","Stage","SteeringReaction1","WheelSize","SteeringReaction2","TireCompound","TireForceVolMaybe","SlipMultiplier","GripMultiplier"
+"ar50n","Medium","0","TireSize\0900_175-60R16.csv","0","TireCompound\07_MediumRear.dat","0","0","0"

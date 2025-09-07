@@ -1,0 +1,2 @@
+﻿"CarId","Price","Stage","SteeringReaction1","WheelSize","SteeringReaction2","TireCompound","TireForceVolMaybe","SlipMultiplier","GripMultiplier"
+"dcnan","12000","Dirt","0","TireSize\0890_175-55R16.csv","0","TireCompound\12_DirtFront.dat","0","0","0"
